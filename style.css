@@ -82,15 +82,9 @@ button{
     height: auto;
     
 }
-#first{
-    margin-left: 60px;
-}
 .last{
     background-image: url(../personal-website/footer-bg.png);
     background-repeat: no-repeat;
-}
-#last{
-    margin-right: 30px;
 }
 
 /* client say */
