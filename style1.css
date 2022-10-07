@@ -4,8 +4,8 @@ body{
 }
 section{
     height: 500px;
-    padding-bottom: 40px;
-    margin-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 10px;
 }
 .half-width{
     width: 40%;
@@ -55,7 +55,7 @@ img{
     text-transform: uppercase;
     font-weight: bold;
 }
-.last div{
+.last{
     width: 28%;
     float: right;
     padding: 30px;
@@ -63,8 +63,13 @@ img{
 }
 .bio{
     text-align: center;
+    padding: 0;
+    height: max-content;
 }
 footer{
     box-shadow: 3px 3px 40px gray;
+    text-align: center;
+}
+.lb{
     text-align: center;
 }
