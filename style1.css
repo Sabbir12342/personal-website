@@ -1,7 +1,20 @@
 body{
-    margin: 0%;
-    width: auto;
-    height: auto;
+    margin: 0;
+    padding: 0;
+}
+section{
+    height: 500px;
+    padding-bottom: 40px;
+    margin-top: 20px;
+}
+.half-width{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
 }
 h1{
     font-size: 40px;
@@ -26,12 +39,6 @@ h6{
 p{
     color: gray;
 }
-.top-container div{
-    width: 48%;
-    float: left;
-    padding: 10px;
-    margin: 2px;
-}
 img{
     width: 100%;
     max-width: 400px;
@@ -47,12 +54,6 @@ img{
     height: auto;
     text-transform: uppercase;
     font-weight: bold;
-}
-.middle-container div{
-    width: 48%;
-    float: right;
-    padding: 10px;
-    margin: 2px;
 }
 .last div{
     width: 28%;
