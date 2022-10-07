@@ -72,4 +72,8 @@ footer{
 }
 .lb{
     text-align: center;
+    padding-bottom: 30px;
+}
+article{
+    color: gray;
 }
